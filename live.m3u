@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,2 News
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=HEUS0161
+#EXTINF:-1,35 News
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0162
+#EXTINF:-1,6 News
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0163
+#EXTINF:-1,Vision TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0164
+#EXTINF:-1,ABC
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0165
+#EXTINF:-1,Doppler
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0166
+#EXTINF:-1,Good Life
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0167
+#EXTINF:-1,Channel 9
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
