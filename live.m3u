@@ -7,3 +7,5 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0162
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0163
 #EXTINF:-1,Channel 9
 http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1,Red Sox
+http://thepk.co:2086/live/nitram2/25305/3527.m3u8
